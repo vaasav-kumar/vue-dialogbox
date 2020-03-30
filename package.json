@@ -1,0 +1,24 @@
+{
+  "name": "vue-dialogbox",
+  "version": "1.0.0",
+  "description": "Use the dialog as you wish.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vaasav-kumar/vue-dialogbox.git"
+  },
+  "keywords": [
+    "vue",
+    "popup",
+    "dialog"
+  ],
+  "author": "vaasav",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vaasav-kumar/vue-dialogbox/issues"
+  },
+  "homepage": "https://github.com/vaasav-kumar/vue-dialogbox#readme"
+}
